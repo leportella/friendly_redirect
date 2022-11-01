@@ -2,6 +2,9 @@ fdly.li
 
 respond "Hello, world"
 
+redir /buy https://www.amazon.com/Friendly-Guide-Software-Development-Technology/dp/1484289684
+redir /venda https://www.amazon.com.br/Friendly-Guide-Software-Development-Developer/dp/1484289684
+
 redir /author https://leportella.com temporary
 redir /01-01 https://www.forbes.com/sites/techonomy/2011/11/30/now-every-company-is-a-software-company/ temporary
 redir /01-01 https://www.weforum.org/reports/the-future-of-jobs-report-2020 temporary
