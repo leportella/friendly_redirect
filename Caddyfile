@@ -26,6 +26,7 @@ redir /03-06 https://youtu.be/tpIctyqH29Q temporary
 redir /03-07 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ temporary
 redir /04-01 https://howdns.works/ temporary
 redir /04-02 https://wizardzines.com/zines/http/ temporary
+
 redir /05-01 https://www.who.int/en/news-room/fact-sheets/detail/disability-and-health temporary
 redir /05-02 https://codepen.io/ivorjetski/pen/xxGYWQG temporary
 redir /05-03 https://stackoverflow.com/a/2964212/3538098 temporary
@@ -35,11 +36,13 @@ redir /05-06 https://insights.stackoverflow.com/survey temporary
 redir /05-07 https://developer.mozilla.org/en-US/docs/Web temporary
 redir /05-08 https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility temporary
 redir /05-09 https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML temporary
+
 redir /06-01 https://anapioficeandfire.com/ temporary
 redir /06-02 https://swapi.dev/ temporary
 redir /06-03 https://roadmap.sh/backend temporary
 redir /06-04 https://www.mongodb.com/nosql-explained/nosql-vs-sql temporary
 redir /06-05 https://www.oreilly.com/library/view/relational-theory-for/9781449365431/ temporary
+
 redir /07-01 https://www.scriptol.com/programming/hello-world.php temporary
 redir /07-02 https://homepages.ecs.vuw.ac.nz/~craig/publications/vlhcc2018-pang.pdf temporary
 redir /07-03 https://www.researchgate.net/publication/262250925_Empirical_Analysis_of_Programming_Language_Adoption temporary 
@@ -51,6 +54,7 @@ redir /07-06 https://hackernoon.com/how-to-choose-a-framework-ea8b5b1e1f44 tempo
 redir /07-07 https://betterprogramming.pub/how-to-choose-a-programming-language-for-a-project-7c7a3e5a4de6 temporary
 redir /07-08 https://dataintensive.net/ temporary
 redir /07-09 https://martinfowler.com/bliki/MonolithFirst.html temporary
+
 redir /08-01 https://twitter.com/benrady/status/817430925176958977 temporary
 redir /08-02 http://agilemanifesto.org/ temporary
 redir /08-03 https://www.youtube.com/watch?v=a-BOSpxYJ9M temporary
@@ -74,10 +78,10 @@ redir /09-09 https://devchecklists.com/user-documentation-checklists/ temporary
 redir /10-01 https://en.wikipedia.org/wiki/Trust,_but_verify temporary
 redir /10-02 https://store.increment.com/products/issue-10-testing temporary
 redir /10-03 https://store.increment.com/products/issue-3-development temporary
-
 redir /10-04 https://www.oreilly.com/library/view/building-software-teams/9781491951781/ temporary
 redir /10-05 https://www.oreilly.com/library/view/software-engineering-at/9781492082781/ temporary
 redir /10-06 https://increment.com/chapter_10/testing-as-communication/ temporary
+
 redir /11-01 https://wondernetwork.com/pings/ temporary
 redir /11-02 https://www.washingtonpost.com/outlook/2019/12/30/lessons-yk-years-later/ temporary
 redir /11-03 https://www.reddit.com/r/cscareerquestions/comments/6ez8ag/accidentally_destroyed_production_database_on/ temporary
@@ -89,13 +93,15 @@ redir /11-08 https://about.gitlab.com/blog/2017/02/10/postmortem-of-database-out
 redir /11-09 https://www.reddit.com/r/cscareerquestions/comments/6ez8ag/accidentally_destroyed_production_database_on/ temporary
 redir /11-10 https://www.atlassian.com/incident-management temporary
 redir /11-11 https://www.youtube.com/watch?v=30jNsCVLpAE temporary
+
 redir /12-01 https://en.wikipedia.org/wiki/Broken_windows_theory temporary
 redir /12-02 https://www.youtube.com/watch?v=fl4aZ2KXBsQ temporary
 redir /12-03 https://www.youtube.com/watch?v=pqeJFYwnkjE temporary
 redir /12-04 https://www.forbes.com/sites/forbestechcouncil/2018/06/01/10-challenges-to-think-about-when-upgrading-from-legacy-systems/ temporary
 redir /12-05 https://www.youtube.com/watch?v=fl4aZ2KXBsQ temporary
+redir /12-06 https://www.packtpub.com/product/working-with-legacy-systems/9781838982560 temporary 
+
 redir /13-01 https://www.ics.uci.edu/~gmark/chi08-mark.pdf temporary
-redir /glue https://noidea.dog/glue temporary
 redir /13-02 https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20141734 temporary
 redir /13-03 https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/ temporary
 redir /13-04 https://erinmeyer.com/books/the-culture-map/ temporary
@@ -103,6 +109,7 @@ redir /13-05 https://www.youtube.com/watch?v=RtMmxqkPVug temporary
 redir /13-06 https://hbr.org/2021/10/5-things-high-performing-teams-do-differently temporary
 redir /13-07 https://www.pcusa.org/site_media/media/uploads/vocation/pdf/how_diversity_makes_us_smarter_scientificamerican_sept_16_2014.pdf  temporary
 redir /13-08 https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/3063/female_representation.pdf  temporary
+
 redir /14-01 https://ask.metafilter.com/62762/What-is-the-source-of-this-quote-about-experience temporary
 redir /14-02 https://qr.ae/pGdBGh temporary
 redir /14-03 https://avichal.com/2011/12/16/focus-on-building-10x-teams-not-on-hiring-10x-developers/ temporary
@@ -111,6 +118,7 @@ redir /14-05 https://hbr.org/2018/10/managing-a-data-science-team temporary
 redir /14-06 https://jvns.ca/wizard-zine.pdf temporary
 redir /14-07 https://staffeng.com/ temporary
 redir /14-08 https://dev.to/isaacdlyman/if-you-dont-hire-juniors-you-dont-deserve-seniors-48kb temporary
+
 redir /15-01 https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/ temporary
 redir /15-02 https://medium.com/atlassian-product-management-blog/product-managers-make-all-the-decisions-right-87ea80beb37a temporary
 redir /15-03 https://newsletter.pragmaticengineer.com/p/what-tpms-do? temporary
@@ -121,3 +129,4 @@ redir /15-07 https://wizardzines.gumroad.com/l/manager-zine temporary
 redir /15-08 http://www.engineeringladders.com/TechLead-EngineeringManager.html temporary
 
 redir /state-agile-2020 https://info.digital.ai/rs/981-LQX-968/images/SOA14.pdf temporary
+redir /glue https://noidea.dog/glue temporary
