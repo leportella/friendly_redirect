@@ -2,7 +2,7 @@ fdly.li
 
 respond "Hello, world"
 
-redir /buy https://www.amazon.com/Friendly-Guide-Software-Development-Technology/dp/1484289684
+redir /buy https://amzn.to/3hX0OYi
 redir /venda https://www.amazon.com.br/Friendly-Guide-Software-Development-Developer/dp/1484289684
 
 redir /author https://leportella.com temporary
